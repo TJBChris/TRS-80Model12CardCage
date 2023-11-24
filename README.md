@@ -68,4 +68,4 @@ Please note the following considerations:
 
 ## License / Copyright
 
-(C) 2023 TJBChris (Christopher Hyzer).  This project is licensed under GPL Version 3.  Please see the LICENSE file for more details.
+ TRS-80 Model 12 Card Cage © 2023 by TJBChris (Christopher Hyzer) is licensed under CC BY-NC-SA 4.0 
