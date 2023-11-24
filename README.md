@@ -25,6 +25,7 @@ To make this cage, you'll need:
 
 * A seven-slot backplane for your TRS-80 Model 12.
 * A 3D Printer with sufficient volume.  I'm using an Anycubic Kobra Plus.  You can also have it professionally printed; I've not tried this yet...YMMV.
+* Slicing software.  I'm using Ultimaker Cura.  
 * PLA or the material of your choice.  I've used PLA thus far with success.
 * PCB board guides (14 total; 7 per side).  I used DigiKey P/N **36-8623-ND** (made by Keystone Electronics, part #8623).  The guide holes in the cage are spaced for these particular guides.  This link was valid as of this writing: https://www.digikey.com/en/products/detail/keystone-electronics/8623/317060?s=N4IgTCBcDaIMwDYC0AOBY5IHIBEQF0BfIA
 * M3 screws and matching nuts to attach the cage to the backplane.  The screw holes in these parts are sized with the major diameter of M3 screws in mind.  I used this 280-piece set from Amazon: https://a.co/d/1WeQXiK
@@ -33,7 +34,14 @@ To make this cage, you'll need:
 
 ## Making and Using the Cage
 
-There are two STL files here, one with the top and a second with both sides. Slice them according to your material and printer (I use Ultimaker Cura for this task) and print them one-at-a-time.  Once printed, note that depending on your printer and material, you may find the screw holes may have material preventing you from inserting the screws; a stright pick should allow you to work the excess material out.
+There are three STL files here, one for each side. Slice them according to your material and printer (I use Ultimaker Cura for this task) and print them one-at-a-time.  I use the following settings:
+
+* Infill Density: 20%
+* Infill pattern: triangle (grid also seems to work well)
+* Print temp: My PLA has a range from 200-210 C, I print at 200 C.  Your temp will vary based on material.
+* The default orientation of the STL files should avoid the need to print supports.
+
+After printing, you may find the screw holes may have material preventing you from inserting the screws; a stright pick should allow you to work the excess material out.  I routinely run the pick through each screw hole before attempting to assemble it to make life easier.
 
 Once printed, put it together:
 
@@ -41,12 +49,14 @@ Once printed, put it together:
 * Attach the sides to your backplane using M3 screws and nuts.  You'll note that the screws are smaller than the holes in the Model 12 backplane; this is intended to allow you some wiggle room to adjust in case the width is a milimeter off in any direction.  This also helps to account for any variation in printing.  With my printer, for example, the parts are rarely perfectly straight, and this may affect your ability to insert/remove cards.
 * Attach the top, again with four M3 screw/nut pairs.
 * Disconnect and remove the video card from the Model 12.
-* Test card fit by using the video card and attempting to insert it into each of the slots.  The video card works well for this.  Loosen the screws/nuts where needed to adjust the alignment as-needed for best fit.
+* Test card fit by using the video card and attempting to insert it into each of the slots.  Loosen the screws/nuts where needed to adjust the alignment as-needed for best fit.
 * Remove and disassemble the existing metal cage holding the cooling fan from your Model 12.  Set the fan aside, along with its screws/nuts.  (See **Caveats** below). 
 * Attach the printed cage to the chassis and screw it in place, ensuring any factory grounds are installed between the metal chassis and the cage sides.  Use the screws you removed from the metal cage.  **You may find the metal doesn't line up perfectly; my 16B looks as though it had been "tweaked" (bent) a bit to fit Tandy's card cage; use the screw holes to trim out as best as you can, and don't be afraid to adjust the chassis a bit.
 * Make and run your grounding solution (providing spade terminals onto which the keyboard and video ground cables can be attached).
-* Install the fan using the screws that you removed earlier.  Be sure the airflow is directed toward the back of the drives (so the fan pulls air through the cage, rather than the reverse).
+* Install the fan on the outside of the cage using the screws that you removed earlier.  Be sure the airflow is directed toward the back of the drives (so the fan pulls air through the cage, rather than pushing air into it).
 * Crete and run your power harness; my Model 12 does not have the spare connector.  YMMV.
+* Insert the video card and any other cards you have.
+* Enjoy the feeling of running a non-neutered Model 12!
 
 ## Caveats And Considerations
 
