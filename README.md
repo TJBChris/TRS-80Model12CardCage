@@ -7,7 +7,8 @@ Please note this is only the second thing I've ever "made".  It's also the first
 
 This project assumes a basic familiarity with 3D printing and working with computers of the Model 12's vintage. This documentation is written from that perspective.
 
-You can see my YouTube video outlining this project here:
+My YouTube videos for this project can be found here: https://youtube.com/playlist?list=PLNLZVk0TSZFJRB-gEgNvk96HBEzzWrhk3&si=kmpUlS4L6hQPK3qs
+
 This video also contains some detail on the caveats below.
 
 ## Differences from Tandy's Cage
