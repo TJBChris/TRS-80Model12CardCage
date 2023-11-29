@@ -1,7 +1,7 @@
 # TRS-80 Model 12 Card Cage
 
 ## About
-This is a crude card cage replacement for the TRS-80 Model 12 business microcomputer.  The Model 12 did not include the seven-slot card cage by default; it was available as an add-on.  Its bigger borthers the TRS-80 Model 16B and (later) the Tandy 6000 include this cage.  This project should also be usable in those machines should you find yourself with a pillaged system.  Naturally, you'll need a seven-slot backplane in order for this to be useful.
+This is a crude card cage replacement for the TRS-80 Model 12 business microcomputer.  The Model 12 did not include the seven-slot card cage by default; it was available as an add-on.  Its bigger borthers (the TRS-80 Model 16B and later the Tandy 6000) include this cage.  This project should also be usable in those machines should you find yourself with a pillaged system.  Naturally, you'll need a seven-slot backplane in order for this to be useful.
 
 Please note this is only the second thing I've ever "made".  It's also the first multi-part "thing" I've made.  I'm still learning and am very new at this.  It shows.  Even so, this is a crude-but-servicable item.  As such, you should expect that things aren't perfect and I may not be able to fix issues in a short time.  But, in the spirit of open source, if you find areas you'd like to improve and have more experience than I, feel free to fork the project, make your improvements, and submit a Pull Request back to me.  I'd be happy to incorporate any fixes you may have.
 
@@ -9,7 +9,7 @@ This project assumes a basic familiarity with 3D printing and working with compu
 
 My YouTube videos for this project can be found here: https://youtube.com/playlist?list=PLNLZVk0TSZFJRB-gEgNvk96HBEzzWrhk3&si=kmpUlS4L6hQPK3qs
 
-This video also contains some detail on the caveats below.
+The videos also contains some detail on the caveats below.
 
 ## Differences from Tandy's Cage
 
