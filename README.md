@@ -1,12 +1,9 @@
 # TRS-80 Model 12 Card Cage
 
-## Important
-This design isn't considered final, and I'm still making adjustments.  You should be able to finagle it to work, but I'm working to make it better.  I'm planning to adjust the backplane screw holes to allow some adjustment room, as well as slightly increasing the diameter of the fan and backplane screw holes.  All of this is to say: If you have a 3D printer and don't mind spending a little material to play with it, have fun.  Just expect changes.  If you don't: **I'd advise against sending it to a 3D printing house just yet.**  ShapeWays quoted me $300 to print this thing...that's a lot of money to waste.
-
 ## About
-This is a crude card cage replacement for the TRS-80 Model 12 business microcomputer.  The Model 12 did not include the seven-slot card cage by default; it was available as an add-on.  Its bigger borthers (the TRS-80 Model 16B and later the Tandy 6000) include this cage.  This project should also be usable in those machines should you find yourself with a pillaged system.  Naturally, you'll need a seven-slot backplane in order for this to be useful.
+This is a card cage chassis replacement for the TRS-80 Model 12 business microcomputer.  The Model 12 did not include the seven-slot card cage by default; it was available as an add-on.  Its bigger borthers (the TRS-80 Model 16B and later the Tandy 6000) include this cage.  This project should also be usable in those machines should you find yourself with a pillaged system.  Naturally, you'll need a seven-slot backplane in order for this to be useful.
 
-Please note this is only the second thing I've ever "made".  It's also the first multi-part "thing" I've made.  I'm still learning and am very new at this.  It shows.  Even so, this is a crude-but-servicable item.  As such, you should expect that things aren't perfect and I may not be able to fix issues in a short time.  For example, screw holes may not align perfectly, or you may find other issues.  But, in the spirit of open source, if you find areas you'd like to improve and have more experience than I, feel free to fork the project, make your improvements, and submit a Pull Request back to me.  I'd be happy to incorporate any fixes you may have.
+Please note this is only the second thing I've ever "made".  It's also the first multi-part "thing" I've made.  I'm still learning and am very new at this.  It shows.  Even so, this is a crude-but-servicable item.  As such, you should expect that things aren't perfect and I may not be able to fix issues as quickly as a more-experienced person.  For example, screw holes may not align perfectly, or you may find other issues.  But, in the spirit of open source, if you find areas you'd like to improve and have more experience than I, feel free to fork the project, make your improvements, and submit a Pull Request back to me.  I'd be happy to incorporate any fixes you may have.
 
 This project assumes a basic familiarity with 3D printing and working with computers of the Model 12's vintage. This documentation is written from that perspective.  If you're new to 3D printing, I'd suggest any one of the plethora of Hello World-style tutorials that are available on the web.
 
@@ -56,7 +53,7 @@ I use the following settings:
 * Infill Density: 20%
 * Infill pattern: triangle (grid also seems to work well)
 * Print temp: My PLA has a range from 200-210 C, I print at 200 C.  Your temp will vary based on material.
-* Print bed temp: 60 C (if your printer has a heated bed; will vary based on your material).
+* Print bed temp: 60 C (if your printer has a heated bed; will vary based on your material and bed type).
 * The default orientation of the STL files should avoid the need to print supports.
 
 After printing, you may find the screw holes may have material preventing you from inserting the screws; a stright pick should allow you to work the excess material out.  I routinely run the pick through each screw hole before attempting to assemble it to make life easier.
