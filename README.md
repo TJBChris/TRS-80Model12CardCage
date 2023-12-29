@@ -25,7 +25,16 @@ This cage is different from the Tandy design in the following ways:
 If you don't have your own 3D printer, yours isn't large enough, or you just don't want to babysit your printer for about three days, you can have one of many 3D printing houses print the cage for you.  I've personally used these two with success:
 
 * ShapeWays - https://www.shapeways.com/
+	* Material: PA12 (SLS) [Versatile Plastic]
+	* Color: Black (Shapeways only allowed black or white for these parts.)
+	* Finish: Natural
+	* I let Shapeways determine infill and such.  
+
 * CraftCloud - https://craftcloud3d.com/
+	* Material: PLA (FDM)
+	* Color: Black 
+	* Finish: Standard
+	* I let CraftCloud determine infill and such.  	
 
 It will probably be fairly pricey to get all three parts printed.  A plastic material with some tolerance for temperature variations would be preferable.  
 
