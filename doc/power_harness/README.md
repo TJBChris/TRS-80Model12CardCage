@@ -49,6 +49,7 @@ You'll need the following wire, in the color, gauge and length noted:
 To assemble the splitter, do the following:
 
 1. Cut the red, white, and orange wire into three sections: One **10cm** length, and two **20cm** lengths.  Group the wires together by color.  For each color, you should have one 10cm length of wire and one 20cm length of wire.
+![Wire groups.](wiregroup.png)
 1. Cut the black wire into nine sections: three **10cm** sections, and six **20cm** sections.  Group the black wire into three groups of one 10cm wire and two 20cm wires.
 1. For each group of wires, strip off about **2-3cm** of the jacket and twist the strands.
 1. For each group of wires, splice together one end of the **10cm** section to one end of each of the remaining two **20cm** sections.
