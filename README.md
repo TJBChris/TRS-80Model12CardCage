@@ -1,5 +1,7 @@
 # TRS-80 Model 12 Card Cage
 
+**Check out the tandy_emeritus folder Tandy Emeritus-provided resources related to their expansion backplane.**  You can find the TE-designed insulator, which is needed when using their backplane with the original metal Tandy card cage chassis, in this folder.
+
 ## About
 This is a card cage chassis replacement for the TRS-80 Model 12 business microcomputer.  The Model 12 did not include the seven-slot card cage by default; it was available as an add-on.  Its bigger borthers (the TRS-80 Model 16B and later the Tandy 6000) include this cage.  This project should also be usable in those machines should you find yourself with a pillaged system.  Naturally, you'll need a seven-slot backplane in order for this to be useful.
 
