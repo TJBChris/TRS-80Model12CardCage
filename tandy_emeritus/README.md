@@ -19,3 +19,7 @@ These are the TE-provided items I have here for the card cage project:
   **BP_Power-IDE_Cover_V1.stl** - The new backplane has components in places that the legacy Tandy backplane did not.  This part prevents the solder joints for the dual 40-pin bus expansion headers and the power connector from contacting the metal chassis behind the backplane. 
   
 * **External_Test_Fixture_STLs.zip** - Contains all of the parts necessary to build a housing for the TE Test Fixture board.  Also contains the cable ribbon clips found in BackPlane_Covers_RibbonClip_STLs.zip.
+
+## Notes
+
+* All of the STLs that use screws/nuts use M3.  Be sure to use metal screws/nuts.
